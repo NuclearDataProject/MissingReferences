@@ -1,0 +1,79 @@
+ 
+:sup:`18`\Ne Missing References
+===============================
+
+Grace's :sup:`18`\Ne database is missing the following references:
+
+.. _table1:
+.. table:: Missing references from NSR website
+
+ ========   ===========================================================================================================
+ NSR Key    Reference
+ 2023LI03   `Phys.Rev. C 107, 014302 (2023) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.014302>`_
+ 2023SA22   `J.Phys.(London) G50, 045105 (2023) <https://iopscience.iop.org/article/10.1088/1361-6471/acb962>`_
+ 2023SE01   `Phys.Rev. C 107, 015502 (2023) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.015502>`_
+ 2023SE05   `Phys.Rev.Lett. 130, 152501 (2023) <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.152501>`_
+ 2023YA06   `Phys.Rev. C 107, 024308 (2023) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.024308>`_
+ 2022BA39   `Phys.Rev. C 106, 054310 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.054310>`_
+ 2022GU11   `Chin.Phys.C 46, 064106 (2022) <https://iopscience.iop.org/article/10.1088/1674-1137/ac5601>`_
+ 2022OH01   `Phys.Rev. C 105, L031305 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.L031305>`_
+ 2022ST03   `Phys.Rev. C 105, 034333 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.034333>`_
+ 2022SU17   `Chin.Phys.C 46, 074106 (2022) <https://iopscience.iop.org/article/10.1088/1674-1137/ac6153>`_
+ 2022XA01   `Phys.Rev. C 105, 044308 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.044308>`_
+ 2022YA19   `Phys.Rev. C 106, 014315 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.014315>`_
+ 2022YU02   `Phys.Rev. C 105, L061303 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.L061303>`_
+ 2022ZO01   `Phys.Rev. C 105, 034321 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.034321>`_
+ 2021AM03   `Eur.Phys.J. A 57, 165 (2021) <https://link.springer.com/article/10.1140/epja/s10050-021-00479-8>`_
+ 2021KA42   `Int.J.Mod.Phys. E30, 2150089 (2021) <https://www.worldscientific.com/doi/abs/10.1142/S0218301321500890>`_
+ 2021SA49   `Phys.Rev. C 104, 054306 (2021) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.054306>`_
+ 2021WU10   `Phys.Rev. C 104, 044311 (2021) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.044311>`_
+ 2021YA26   `Phys.Rev. C 104, 034302 (2021) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.034302>`_
+ 2015TAZY   CNS-REP-93, Ann.Report 2013, p.19 (2015)
+ 2014VO05   `Phys.Rev. C 90, 014301 (2014) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.014301>`_
+ 2013PRZW   `arXiv:1312.5975v1 [nucl-th] (2013) <https://www.sciencedirect.com/science/article/pii/S0092640X15000406>`_
+ 2013ZHZZ   CNS-REP-90, Ann.Report 2011, p.5 (2013)
+ 2012GR13   `Phys.Rev. C 86, 024315 (2012) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.86.024315>`_
+ ========   ===========================================================================================================
+
+.. _table2:
+.. table:: Missing references from Fey's evaluation
+
+ =========   =========   =========
+ Reference   Reference   Reference
+ 1954GO17    1982IN1A    1992DI04 
+ 1957RA1C    1982ZH1D
+ 1970SI1J    1983ANZQ
+ 1974LO04    1983BI1C
+ 1977FI13    1983BR29
+ 1977HA1Z    1983BR1E
+ 1977SA13    1983AJ01
+ 1977SP1B    1984BA1B
+ 1978AJ03    1985AN28
+ 1978KR1G    1986ANZY
+ 1978SC1G    1986AN07
+ 1978SH1B    1986BR1X
+ 1979HE1D    1986HA1B
+ 1979AL1J    1986HA1Q
+ 1979RA10    1986TO1D
+ 1979WI1Q    1986ST15
+ 1980LO1B    1987AJ02
+ 1980OK01    1987KI03
+ 1981AD01    1987PA1H
+ 1981HA06    1987RA01
+ 1981HA1Q    1988CA26
+ 1981OS1F    1988SE1A
+ 1981LI1L    1989BA1R
+ 1981LI1M    1989CH1O
+ 1981LI1W    1989FU01
+ 1981SH17    1989YU1A
+ 1982GR1F    1990CH1U
+ =========   =========   =========
+
+.. _table3:
+.. table:: Missing references from John's spreadsheet found `here <https://webhome.phy.duke.edu/~jhkelley/CFG/XUNDL/XUNDL.shtml>`_
+
+ ========    ==============================================================================
+ NSR Key     Link
+ 2015EL06    `here <https://link.springer.com/article/10.1140/epja/i2015-15134-8>`_
+ 2012PA02    `here <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.85.024609>`_
+ ========    ==============================================================================

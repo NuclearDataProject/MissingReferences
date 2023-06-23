@@ -8,6 +8,12 @@
 *.log
 *.log.*
 *.sig
-
+*~
+*.DS_Store
+.DS_Store
+._*
+*README_cache/
 pkg/
 src/
+build/
+temp/
