@@ -4,76 +4,212 @@
 
 Grace's :sup:`18`\Ne database is missing the following references:
 
-.. _table1:
+.. table:: Missing references from `John's XUNDL spreadsheet <https://webhome.phy.duke.edu/~jhkelley/CFG/XUNDL/XUNDL.shtml>`_
+
+ ===========    ===================================================================================================
+ **NSR Key**    **Reference**
+ 2015EL06       `Eur.Phys.J. A 51, 134 (2015) <https://link.springer.com/article/10.1140/epja/i2015-15134-8>`_
+ 2012PA02       `Phys.Rev. C 85, 024609 (2012) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.85.024609>`_
+ ===========    ===================================================================================================
+
 .. table:: Missing references from NSR website
 
- ========   ===========================================================================================================
- NSR Key    Reference
- 2023LI03   `Phys.Rev. C 107, 014302 (2023) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.014302>`_
- 2023SA22   `J.Phys.(London) G50, 045105 (2023) <https://iopscience.iop.org/article/10.1088/1361-6471/acb962>`_
- 2023SE01   `Phys.Rev. C 107, 015502 (2023) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.015502>`_
- 2023SE05   `Phys.Rev.Lett. 130, 152501 (2023) <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.152501>`_
- 2023YA06   `Phys.Rev. C 107, 024308 (2023) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.024308>`_
- 2022BA39   `Phys.Rev. C 106, 054310 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.054310>`_
- 2022GU11   `Chin.Phys.C 46, 064106 (2022) <https://iopscience.iop.org/article/10.1088/1674-1137/ac5601>`_
- 2022OH01   `Phys.Rev. C 105, L031305 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.L031305>`_
- 2022ST03   `Phys.Rev. C 105, 034333 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.034333>`_
- 2022SU17   `Chin.Phys.C 46, 074106 (2022) <https://iopscience.iop.org/article/10.1088/1674-1137/ac6153>`_
- 2022XA01   `Phys.Rev. C 105, 044308 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.044308>`_
- 2022YA19   `Phys.Rev. C 106, 014315 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.014315>`_
- 2022YU02   `Phys.Rev. C 105, L061303 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.L061303>`_
- 2022ZO01   `Phys.Rev. C 105, 034321 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.034321>`_
- 2021AM03   `Eur.Phys.J. A 57, 165 (2021) <https://link.springer.com/article/10.1140/epja/s10050-021-00479-8>`_
- 2021KA42   `Int.J.Mod.Phys. E30, 2150089 (2021) <https://www.worldscientific.com/doi/abs/10.1142/S0218301321500890>`_
- 2021SA49   `Phys.Rev. C 104, 054306 (2021) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.054306>`_
- 2021WU10   `Phys.Rev. C 104, 044311 (2021) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.044311>`_
- 2021YA26   `Phys.Rev. C 104, 034302 (2021) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.034302>`_
- 2015TAZY   CNS-REP-93, Ann.Report 2013, p.19 (2015)
- 2014VO05   `Phys.Rev. C 90, 014301 (2014) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.014301>`_
- 2013PRZW   `arXiv:1312.5975v1 [nucl-th] (2013) <https://www.sciencedirect.com/science/article/pii/S0092640X15000406>`_
- 2013ZHZZ   CNS-REP-90, Ann.Report 2011, p.5 (2013)
- 2012GR13   `Phys.Rev. C 86, 024315 (2012) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.86.024315>`_
- ========   ===========================================================================================================
+ ===========   ===========================================================================================================
+ **NSR Key**   **Reference**
+ 2023LI03      `Phys.Rev. C 107, 014302 (2023) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.014302>`_
+ 2023SA22      `J.Phys.(London) G50, 045105 (2023) <https://iopscience.iop.org/article/10.1088/1361-6471/acb962>`_
+ 2023SE01      `Phys.Rev. C 107, 015502 (2023) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.015502>`_
+ 2023SE05      `Phys.Rev.Lett. 130, 152501 (2023) <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.152501>`_
+ 2023YA06      `Phys.Rev. C 107, 024308 (2023) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.107.024308>`_
+ 2022BA39      `Phys.Rev. C 106, 054310 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.054310>`_
+ 2022GU11      `Chin.Phys.C 46, 064106 (2022) <https://iopscience.iop.org/article/10.1088/1674-1137/ac5601>`_
+ 2022OH01      `Phys.Rev. C 105, L031305 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.L031305>`_
+ 2022ST03      `Phys.Rev. C 105, 034333 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.034333>`_
+ 2022SU17      `Chin.Phys.C 46, 074106 (2022) <https://iopscience.iop.org/article/10.1088/1674-1137/ac6153>`_
+ 2022XA01      `Phys.Rev. C 105, 044308 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.044308>`_
+ 2022YA19      `Phys.Rev. C 106, 014315 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.106.014315>`_
+ 2022YU02      `Phys.Rev. C 105, L061303 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.L061303>`_
+ 2022ZO01      `Phys.Rev. C 105, 034321 (2022) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.105.034321>`_
+ 2021AM03      `Eur.Phys.J. A 57, 165 (2021) <https://link.springer.com/article/10.1140/epja/s10050-021-00479-8>`_
+ 2021KA42      `Int.J.Mod.Phys. E30, 2150089 (2021) <https://www.worldscientific.com/doi/abs/10.1142/S0218301321500890>`_
+ 2021SA49      `Phys.Rev. C 104, 054306 (2021) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.054306>`_
+ 2021WU10      `Phys.Rev. C 104, 044311 (2021) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.044311>`_
+ 2021YA26      `Phys.Rev. C 104, 034302 (2021) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.104.034302>`_
+ 2015TAZY      CNS-REP-93, Ann.Report 2013, p.19 (2015)
+ 2014VO05      `Phys.Rev. C 90, 014301 (2014) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.014301>`_
+ 2013PRZW      `arXiv:1312.5975v1 [nucl-th] (2013) <https://www.sciencedirect.com/science/article/pii/S0092640X15000406>`_
+ 2013ZHZZ      CNS-REP-90, Ann.Report 2011, p.5 (2013)
+ 2012GR13      `Phys.Rev. C 86, 024315 (2012) <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.86.024315>`_
+ ===========   ===========================================================================================================
 
-.. _table2:
-.. table:: Missing references from Fey's evaluation
+.. table:: Missing references from Fey's 1995 evaluation (`1995TI07 <https://www.sciencedirect.com/science/article/pii/0375947495003381?via%3Dihub>`_)
 
- =========   =========   =========
- Reference   Reference   Reference
- 1954GO17    1982IN1A    1992DI04 
- 1957RA1C    1982ZH1D
- 1970SI1J    1983ANZQ
- 1974LO04    1983BI1C
- 1977FI13    1983BR29
- 1977HA1Z    1983BR1E
- 1977SA13    1983AJ01
- 1977SP1B    1984BA1B
- 1978AJ03    1985AN28
- 1978KR1G    1986ANZY
- 1978SC1G    1986AN07
- 1978SH1B    1986BR1X
- 1979HE1D    1986HA1B
- 1979AL1J    1986HA1Q
- 1979RA10    1986TO1D
- 1979WI1Q    1986ST15
- 1980LO1B    1987AJ02
- 1980OK01    1987KI03
- 1981AD01    1987PA1H
- 1981HA06    1987RA01
- 1981HA1Q    1988CA26
- 1981OS1F    1988SE1A
- 1981LI1L    1989BA1R
- 1981LI1M    1989CH1O
- 1981LI1W    1989FU01
- 1981SH17    1989YU1A
- 1982GR1F    1990CH1U
- =========   =========   =========
+ ===============   =================================================================================================================================
+ **NSR Key**       **Reference**
+ 1978AJ03          `Nucl. Phys. A300 (1978) 1 <https://www.sciencedirect.com/science/article/pii/0375947478902701?via%3Dihub>`_
+ 1983AJ01          `Nucl. Phys. A392 (1983) 1 <https://www.sciencedirect.com/science/article/pii/037594748390180X?via%3Dihub>`_
+ 1983AJ01 Errata   `Errata Nucl. Phys. A413 (1984) 168 <https://www.sciencedirect.com/science/article/pii/0375947484906511>`_
+ 1987AJ02          `Nucl. Phys. A475 (1987) 1 <https://www.sciencedirect.com/science/article/pii/0375947487902053?via%3Dihub>`_
+ 1987PA1H:         B. Parker, K. Seth and R. Soundranayagam, Panic (1987) 356
+ 1987RA01          `At. Data Nucl. Data Tables 36 (1987) 1 <https://www.sciencedirect.com/science/article/pii/0092640X87900167?via%3Dihub>`_
+ 1988CA26          `At. Data Nucl. Data Tables 40 (1988) 283 <https://www.sciencedirect.com/science/article/pii/0092640X88900095?via%3Dihub>`_
+ 1988SE1A          `Nucl. Phys. A478 (1988) 591c <https://www.sciencedirect.com/science/article/pii/0375947488908986>`_
+ 1989BA1R:         Baer, Bull. Amer. Phys. Soc. 34 (1989) 1210
+ 1989CH1O          `Commun. Theor. Phys. 11 (1989) 171 <https://iopscience.iop.org/article/10.1088/0253-6102/11/2/171>`_
+ 1989FU01          `Z. Phys. A332 (1989) 109 <https://link.springer.com/article/10.1007/BF01292589>`_
+ 1989ST1H:         Strottman, "Fund. Symm. and Nucl. Struct.". Eds. Ginocchio and Rosen, in Santa Fe, NM 1988 (World Scientific: 1989) 247
+ 1989YU1A:         Yu, Cai and Ma, Sao Paulo (1989) 9
+ 1990CH1U:         Ching, Ho and Zou, Panic XII (1990) Paper III-77
+ 1992DI04          `Nucl. Instrum. Meth. Phys. Res. B68 (1992) 166 <https://www.sciencedirect.com/science/article/pii/0168583X92960716?via%3Dihub>`_
+ ===============   =================================================================================================================================
 
-.. _table3:
-.. table:: Missing references from John's spreadsheet found `here <https://webhome.phy.duke.edu/~jhkelley/CFG/XUNDL/XUNDL.shtml>`_
+.. table:: Missing references from Fey's 1987 evaluation (`1987AJ02 <https://www.sciencedirect.com/science/article/pii/0375947487902053?via%3Dihub>`_)
 
- ========    ==============================================================================
- NSR Key     Link
- 2015EL06    `here <https://link.springer.com/article/10.1140/epja/i2015-15134-8>`_
- 2012PA02    `here <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.85.024609>`_
- ========    ==============================================================================
+ ===========   =======================================================================================================================================================
+ **NSR Key**   **Reference**
+ 1981AD01      `Phys. Rev. Lett. 46 (1981) 695 <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.695>`_
+ 1981HA06      `Phys. Rev. Lett. 46 (1981) 698 <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.698>`_
+ 1982AS1B      E. Aslanides, T. Bressani, et al., Proc. Int. Conf. on Nucleus-Nucleus Collisions, 26 Sept.-1 Oct. 1982, East Lansing, MI, USA (1982) 2
+ 1982BR24      `Phys. Rev. C 26 (1982) 2247 <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.26.2247>`_
+ 1982RI04      `Z.Phys. A306, 67 (1982) <https://link.springer.com/article/10.1007/BF01413410>`_
+ 1982WI1B      M. Wiescher and K.-U. Kettner, Astrophys. J. 263 (1982) 891
+ 1983AD1B      E.G. Adelberger, Proc. NATO Advanced Study Institute on Symmetries in Nuclear Structure, 16-28 Aug. 1982, 
+               Dronten, Netherlands; Eds., Abrahams, Allaart and Dieperink (1983) 55
+ 1983AD1C      E.G. Adelberger, Comments Nucl. Part. Phys. 11 (1983) 189
+ 1983AD1D      Adelberger, Proc. Int. Conf. on Nucl. Phys., August-Spet. 1983; Eds., P. Blasi and R.A. Ricci (1983) 499
+ 1983ANZQ      JAERI-M-83-025 (1983)
+ 1983BI1C      P.G. Bizzeti, Riv. Nuovo Cim. 6 (1983) 1
+ 1983BR1E      Bromley, Proc. Int. Conf. on Nucl. Phys., Aug.-Sept. 1983, Florence; Eds., P. Blasi and R.A. Ricci; Vol. 2 (1983) 3
+ 1983BR29      `Phys. Rev. C 28 (1983) 2397 <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.28.2397>`_
+ 1983LI1U      X.-H. Liu and Y.-G. Li, Phys. Energ. Fortis Phys. Nucl. 7 (1983) 197
+ 1983OS1E      `Nucl. Phys. A408 (1983) 461 <https://www.sciencedirect.com/science/article/pii/0375947483902403>`_
+ 1984AD1E      `AIP Conf. Proc. 123 (1984) 300 <https://pubs.aip.org/aip/acp/article-abstract/123/1/300/867666/Symmetry-violation-in-nuclei?redirectedFrom=fulltext>`_
+ 1984BA1B      Bauer et al., 10th Int. Conf. on Paricles and Nuclei, 30 July-3 Aug. 1984, Heidelberg (1984) F21
+ 1984SA37      `At. Data Nucl. Data Tables 31 (1884) 399 <https://www.sciencedirect.com/science/article/pii/0092640X8490010X?via%3Dihub>`_
+ 1985AD1A      `Ann. Rev. Nucl. Part. Sci. 35 (1985) 501 <https://www.annualreviews.org/doi/abs/10.1146/annurev.ns.35.120185.002441>`_
+ 1985AN28      `At. Data Nucl. Data Tables 33 (1885) 447 <https://www.sciencedirect.com/science/article/pii/0092640X85900117?via%3Dihub>`_
+ 1985BR29      `At. Data Nucl. Data Tables 33 (1885) 347 <https://www.sciencedirect.com/science/article/pii/0092640X85900099?via%3Dihub>`_
+ 1985RO1G      D.J. Rowe, Rept. Prog. Phys. 48 (1985) 1419
+ 1986AN07      `At. Data Nucl. Data Tables 34 (1886) 279 <https://www.sciencedirect.com/science/article/pii/0092640X86900057?via%3Dihub>`_
+ 1986AN10      `Nuovo Cim. 91A, 283 (1986) <https://link.springer.com/article/10.1007/BF02819306>`_
+ 1986BA1C      H.W. Baer and G.A. Miller, Comments Nucl. Part. Phys. 15 (1986) 269
+ 1986BR1X      Brown, in Harrogate (1986) 119
+ 1986HA1B      B.G. Harvey, J. Phys. (Paris) 47 (1986) C4-29
+ 1986HA1Q      Haxton, Proc. Int. Nucl. Phys. Conf., Harrogate, U.K., No. 68, Vol. 2 (1986) 415
+ 1986TO1D      `Ann. Rev. Nucl. Part. Sci. 36 (1986) 115 <https://www.annualreviews.org/doi/abs/10.1146/annurev.ns.36.120186.000555>`_
+ 1986ST15      Izv.Akad.Nauk SSSR, Ser.Fiz. 50, 953 (1986); Bull.Acad.Sci, USSR, Phys.Ser. 50, No.5, 121 (1986)
+ 1987KI03      `J. Phys. G: Nucl. Phys., 13 (1987) 135 <https://iopscience.iop.org/article/10.1088/0305-4616/13/2/004>`_
+ 1987RA01      `At. Data Nucl. Data Tables 36 (1887) 1 <https://www.sciencedirect.com/science/article/pii/0092640X87900167?via%3Dihub>`_
+ ===========   =======================================================================================================================================================
+
+.. table:: Missing references from Fey's 1983 evaluation (`1983AJ01 <https://www.sciencedirect.com/science/article/pii/037594748390180X?via%3Dihub>`_)
+
+ ===========   ===================================================================================================================================
+ **NSR Key**   **Reference**
+ 1977FI13      `Int. J. Appl. Radiat. Isot. 28 (1977) 781 <https://www.sciencedirect.com/science/article/pii/0020708X77901090?via%3Dihub>`_
+ 1977HA1Z      Harvey, Proc. Int. Conf. Nucl. Struct., Tokyo, (1977); J. Phys. Soc. Jpn. Suppl. 44 (1978) 127
+ 1977HE18      `Nucl. Phys. A 289 (1977) 386 <https://www.sciencedirect.com/science/article/pii/0375947477900410?via%3Dihub>`_
+ 1977SP1B      Spencer, High Energy Phys. Nucl. Struct., Zurich (1977) 153
+ 1978KR1G      `Nucl. Phys. A301 (1978) 29 <https://www.sciencedirect.com/science/article/pii/0375947478901276>`_
+ 1978SC1G      Schiffer, Proc. Int. Conf. Nucl. Struct., Tokyo, (1977), J. Phys. Soc. Jpn. Suppl. 44 (1978) 9
+ 1978SH1B      `Rept. Prog. Phys. (GB) 41 (1978) 957 <https://iopscience.iop.org/article/10.1088/0034-4885/41/7/001>`_
+ 1979AL1J      Alster and Warszawski, Phys. Rept. 52 (1979) 87
+ 1979DA15      `Phys. Rev. C 20 (1979) 1908 <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.20.1908>`_
+ 1979HE1D      Hering et al., BNL-51115 (1979) 759
+ 1979RA10      `Nucl. Phys. A 319 (1979) 239 <https://www.sciencedirect.com/science/article/pii/0375947479901842?via%3Dihub>`_
+ 1979SA31      Prog.Theor.Phys.Suppl. No.65, 111 (1979)
+ 1979WI1Q      Wildenthal and Chung, MSUCL-319 (Sept. 1979), Proc. Conf. on The (p, n) Reaction and the Nucleon-Nucleon Force, Colorado (1979)
+ 1979WO07      `At. Data Nucl. Data Tables 22 (1978) 371 <https://www.sciencedirect.com/science/article/pii/0092640X78900189?via%3Dihub>`_
+ 1980LO1B      Lowry, Bennett and Krien, Bull. Amer. Phys. Soc. 25 (1980) 486
+ 1980OK01      `Phys. Lett. B 90 (1980) 45 <https://www.sciencedirect.com/science/article/pii/0370269380900477?via%3Dihub>`_
+ 1981AD01      `Phys. Rev. Lett. 46 (1981) 695 <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.695>`_
+ 1981HA06      `Phys. Rev. Lett. 46 (1981) 698 <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.46.698>`_
+ 1981HA1Q      Haxton, Proc. Versailles Conf. (1981) 481
+ 1981LI1L      Liu, Proc. Versailles Conf. (191) 285
+ 1981LI1M      Liu and Li, Proc. Versailles Conf. (191) 286
+ 1981LI1W      Liu, Wu, Huang and Li, Sci. Sin. 24 (1981) 789
+ 1981OS1F      Oset and Strottman, Proc. Versailles Conf. (1981) 287
+ 1981SH17      Yad. Fiz. 33, 1473 (1981)
+ 1982GR1F      `Phys. Rev. C 25 (1982) 927 <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.25.927>`_
+ 1982GRZZ      Bull.Am.Phys.Soc. 27, No.4, 467, BF6 (1982)
+ 1982IN1A      `Nucl. Phys. A 374 (1982) 319 <https://www.sciencedirect.com/science/article/pii/0375947482902512>`_
+ 1982LA26      `Rev. Mod. Phys. 54 (1982) 119 <https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.54.119>`_
+ 1982ZH1D      Zhukov, Gomez and Bang, in Kiev (1982) 229
+ 1982ZH1D      Zhukov, Gomez and Bang, in Kiev (1982) 229
+ ===========   ===================================================================================================================================
+
+.. table:: Missing references from Fey's 1978 evaluation (`1978AJ03 <https://www.sciencedirect.com/science/article/pii/0375947478902701?via%3Dihub>`_)
+
+ ===========   ===============================================================================================================
+ **NSR Key**   **Reference**  
+ 1970AS1C      Aslanides, Frnc Th 116 (1970)
+ 1970SI1J      Siegel, Thesis, Rutgers State Univ. (1970)
+ 1971SC1F      Scott et al., Suppl. J. Phys. 32 (1971) C6-275 
+ 1972CA37      `Nuovo Cim. 12A, 71 (1972) <https://link.springer.com/article/10.1007/BF02813834>`_
+ 1972MI11      `Phys. Rev. C 6 (1972) 487 <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.6.487>`_
+ 1972RA08      `Nucl. Phys. A 181 (1972) 409 <https://www.sciencedirect.com/science/article/pii/0375947472904927?via%3Dihub>`_
+ 1972WI1C      Wilkinson, Few Particle Problems, UCLA, 1972 (1972) 191
+ 1972WI28      Proc.Roy.Soc.Edinburgh, Sect.A 70, 307 (1972)
+ 1973BE35      `Phys. Rev. C 8 (1973) 1023 <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.8.1023>`_
+ 1973GO1H      J.M.G. Gomez and J. Sesma, Phys. Lett. B44 (1973) 231
+ 1973LA03      Phys.Rev. C7, 668 (1973)
+ 1973PA1F      Parker, Baglin and Skwiersky, Bull. Amer. Phys. Soc. 18 (1973) 550
+ 1974GO23      `Phys. Rev. C 10 (1974) 1525 <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.10.1525>`_
+ 1974LI1N      Li, Liu and Ma, Sci. Sin. (China) 18 (1974) 38
+ 1974LO04      `Nucl. Phys. A 219 (1974) 171 <https://www.sciencedirect.com/science/article/pii/0375947474900906?via%3Dihub>`_
+ 1974RE03      `Phys. Rev. C 9 (1974) 1882 <https://journals.aps.org/prc/abstract/10.1103/PhysRevC.9.1882>`_ 
+ 1974SH09      `Phys. Lett. B 49 (1974) 401 <https://www.sciencedirect.com/science/article/pii/0370269374906182?via%3Dihub>`_
+ 1974WI02      `Nucl. Phys. A 232 (1974) 58 <https://www.sciencedirect.com/science/article/pii/0375947474906459?via%3Dihub>`_
+ 1974WI1L      Wilkinson, Private Communication (1974)
+ 1975WI1E      Wilkinson, Proc. Int. Symp. on Inter. Studies in Nucl., Germany, 1975 (1975) 147
+ 1977HA2E      Hamm and Nagatani, in Tokyo (1977) 623
+ 1977KU1E      K. Kubodera, J. Delorme and M. Rho, Phys. Rev. Lett. 38 (1977) 321
+ 1977RO1U      Rosenthal and Sparrow, Bull. Amer. Phys. Soc. 22 (1977) 1029
+ 1977SA13      `Progr.Theor.Phys. 57, 855 (1977) <https://academic.oup.com/ptp/article/57/3/855/1941387>`_
+ 1978AJ03      `Nucl.Phys. A300, 1 (1978) <https://www.sciencedirect.com/science/article/pii/0375947478902701?via%3Dihub>`_ 
+ ===========   ===============================================================================================================
+
+.. table:: Missing references from Fey's 1972 evaluation (`1972AJ02 <https://www.sciencedirect.com/science/article/pii/0375947472908925?via%3Dihub>`_)
+
+ ===========   =================================================================================================================  
+ **NSR Key**   **Reference**  
+ 1957WI1E      Winterberg, Z. Naturforsch. A12 (1957) 271
+ 1964FR1B      Frick, Thesis, Univ. of Strasbourg (1964)
+ 1965BR1H      Bryant and Flynn, Bull. Amer. Phys. Soc. 10 (1965) 515
+ 1965GO1F      `Phys. Rev. 140 (1965) B26 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.140.B26>`_
+ 1965PA1F      `Phys. Rev. 138 (1965) 8847 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.138.B988>`_
+ 1966KE16      `Phys. Lett. 23 (1966) 689 <https://www.sciencedirect.com/science/article/pii/0031916366911024?via%3Dihub>_`
+ 1966MI1G      Mikulinsky, Yad. Fiz. 3 (1966) 245
+ 1966ZA03      `Phys. Lett. 21 (1966) 194 <https://www.sciencedirect.com/science/article/pii/003191636690312X?via%3Dihub>`_
+ 1967VA31      Yadern. Fiz. 6, 462 (1967), Sov.J.Nucl.Phys. 6, 337 (1968)
+ 1968BA2H      Phys. Lett. B27 (1968) 544
+ 1968BE1V      `Phys. Rev. 174 (1968) 1313 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.174.1313>`_
+ 1968BO1U      Bohr, Damgard and Mottelson, Izv. Akad. Nauk SSSR Ser. Fiz. 32 (1968) 178
+ 1968FR03      `Nucl. Phys. A 111 (1968) 63 <https://www.sciencedirect.com/science/article/pii/S0375947468903308?via%3Dihub>`_
+ 1968GO05      `Nucl. Phys. A 109 (1968) 417 <https://www.sciencedirect.com/science/article/pii/0375947468906076?via%3Dihub>`_
+ 1968MU1B      Murthy, Nucl. Phys. Solid State Phys. Symp., Powai, India (1968)
+ 1968NE1C      Nemirovskii, Sov. J. Nucl. Phys. 6 (1968) 29
+ 1968PA1R      Paddock, Benesen, Locard and Proctor, Bull. Amer. Phys. Soc. 13 (1968) 1464
+ 1969BA1Z      Barnes, Nucl. Isospin, Proc. 1969 Asilomar Conf. (1969) 179
+ 1969BE1T      `Nucl. Phys. A126 (1969) 332 <https://www.sciencedirect.com/science/article/pii/0375947469904692>`_
+ 1969GA1G      `Ann. Rev. Nucl. Sci. 19 (1969) 433 <https://www.annualreviews.org/doi/abs/10.1146/annurev.ns.19.120169.002245>`_
+ 1969KA1B      `Nucl. Phys. A129 (1969) 172 <https://www.sciencedirect.com/science/article/pii/037594746990918X>`_
+ 1969KA29      `Phys. Rev. 185 (1969) 1378 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.185.1378>`_
+ 1969RA28      `Nucl. Phys. A 139 (1369) 24 <https://www.sciencedirect.com/science/article/pii/0375947469902565?via%3Dihub>`_
+ 1970BA1Z      `Nucl. Phys. A148 (1970) 145 <https://www.sciencedirect.com/science/article/pii/0375947470906172>`_
+ 1970BA2E      Barrett, Hewitt and McCarthy, Bull. Amer. Phys. Soc. 15 (1970) 1658
+ 1970DI1G      Dietrich, Nero and Walker, Bull. Amer. Phys. Soc. 15 (1970) 1658
+ 1970NE1J      Nero and Adelberger, Bull. Amer. Phys. Soc. 15 (1970) 1686
+ 1970NE1N      Nero, Thesis, Stanford Univ. (1970) 
+ 1970OL1B      Olsen, Thesis, Univ. of Minnesota (1970)
+ 1971DE1E      Phys. Lett. B34 (1971) 238
+ 1971PA1L      Paddock, MSUCL-36 (1971)
+ ===========   =================================================================================================================
+
+.. table:: Missing references from Fey's 1959 evaluation (`1959AJ76 <https://www.sciencedirect.com/science/article/pii/002955825990272X?via%3Dihub>`_)
+
+ ===========    ================================================================================================  
+ **NSR Key**    **Reference**  
+ 1954GO17       `Phys. Rev. 94 (1954) 365 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.94.365>`_   
+ 1957RA1C       `Nucl. Phys. 4 (1957) 375 <https://www.sciencedirect.com/science/article/pii/002955828790040X>`_       
+ ===========    ================================================================================================
