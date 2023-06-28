@@ -308,25 +308,25 @@ Grace's :sup:`19`\Ne database is missing the following references:
 
  ===========    ================================================================================================  
  **NSR Key**    **Reference**   
- 1939WH02
- 1947TE01
- 1952SC15
- 1954AL29
- 1954JO21
- 1954NA29
- 1955MA1M
- 1955EL1B
- 1955RE1D
- 1955RE1E
- 1957AL29
- 1957GO1J
- 1957PE12
- 1957RA1C
- 1958BI1B
- 1958HE1J
- 1958RE1B
- 1958WE25
- 1959HE1E
- 1958RE1B
- 1959LA01
+ 1939WH02       `Phys. Rev. 56 (1939) 512 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.56.512>`_
+ 1947TE01       `Phys. Rev. 72 (1947) 758 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.72.758>`_
+ 1952SC15       `Phys. Rev. 86 (1952) 248 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.86.248>`_
+ 1954AL29       `Phys. Rev. 95 (1954) 1351 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.95.1351>`_
+ 1954JO21       `Phys. Rev. 96 (1954) 547 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.96.547>`_
+ 1954NA29       `J.Phys.Radium 15, 677 (1954) <https://jphysrad.journaldephysique.org/articles/jphysrad/abs/1954/10/jphysrad_1954__15_10_677_0/jphysrad_1954__15_10_677_0.html>`_
+ 1955MA1M       `Phys. Rev. 97 (1955) 109 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.97.109>`_
+ 1955EL1B       Elliott and Flowers, Proc. Roy. Soc. A229 (1955) 536
+ 1955RE1D       `Phys. Rev. 99 (1955) 1427 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.99.1427>`_
+ 1955RE1E       `Phys. Rev. 98 (1955) 199 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.98.199>`_
+ 1957AL29       `Phys. Rev. 105 (1957) 673 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.105.673>`_
+ 1957GO1J       `Phys. Rev. 105 (1957) 213 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.105.213>`_
+ 1957PE12       `Phys. Rev. 105 (1957) 647 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.105.647>`_
+ 1957RA1C       `Nucl. Phys. 4 (1957) 375 <https://www.sciencedirect.com/science/article/pii/002955828790040X>`_
+ 1958BI1B       Bichsel, Phys. Rev. Lett. 1 (1958) 384
+ 1958HE1J       Herrmannsfeldt, Stahelin and Allen, Bull. Amer. Phys. Soc. 3 (1958) 52
+ 1958RE1B       `Phys. Rev. 110 (1958) 468 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.110.468>`_
+ 1958WE25       J.A.Welch, Jr., R.Wallace, Bull.Am.Phys.Soc. 3, No.3, 206, RA4 (1958)
+ 1959HE1E       Herrmannsfeldt, Burman, Stahelin, Allen and Braid, Bull. Amer. Phys. Soc. 4 (1959) 77
+ 1958RE1B       `Phys. Rev. 110 (1958) 468 <https://journals.aps.org/pr/abstract/10.1103/PhysRev.110.468>`_
+ 1959LA01       E.D.Lambe, J.B.Reynolds, J.Jovanovich, T.A.Pond, Bull.Am.Phys.Soc. 4, No.1, 77, B5 (1959)
  ===========    ================================================================================================
